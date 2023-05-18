@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jananikangesan&show_icons=true&theme=merko" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jananikangesan&theme=merko" />
+</p>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananikangesan&layout=compact&theme=dark&langs_count=6" />
+<img width="49%" height="100%" src="https://activity-graph.herokuapp.com/graph?username=jananikangesan&theme=xcode" />
+</p>
+
 <!--
 **jananikangesan/jananikangesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
