@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananikangesan&layout=compact&theme=dark&langs_count=6" />
-<img width="49%" height="100%" src="https://activity-graph.herokuapp.com/graph?username=jananikangesan&theme=xcode" />
+<!-- <img width="49%" height="100%" src="https://activity-graph.herokuapp.com/graph?username=jananikangesan&theme=xcode" /> -->
 </p>
 
 <!--
